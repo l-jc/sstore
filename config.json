@@ -1,0 +1,8 @@
+{
+	"number_of_metastores": 3,
+	"metastores": ["localhost",6000,"localhost",6001,"localhost",6002],
+
+	"number_of_blockstores": 3,
+	"blockstores": ["localhost",5000,"localhost",5001,"localhost",5002],
+	"placement": "geo"
+}
